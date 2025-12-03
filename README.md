@@ -8,7 +8,7 @@ It is designed to build a strong Portfolio Project for interviews and LinkedIn.
 
 ## Tools & Technologies
 
-Python (Pandas) – Data loading, EDA, and cleaning
-MySQL – Running analytical SQL queries
-Power BI – Dashboard design and visualization
+### Python (Pandas) – Data loading, EDA, and cleaning
+### MySQL – Running analytical SQL queries
+### Power BI – Dashboard design and visualization
 
